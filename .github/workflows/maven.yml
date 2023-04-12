@@ -6,8 +6,8 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-name: Java CI with Maven
-
+name: Java CI with Maven Hangman
+run-name: ${{ github.actor }} is testing Hangman 🚀
 on:
   push:
     branches: [ "main" ]
